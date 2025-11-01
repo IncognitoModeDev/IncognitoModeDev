@@ -3,8 +3,11 @@
 <h3 align="center">A Self-Taught Developer</h3>
 
 - 📫 How to reach me **incognito@incognitomode.dev**
-- https://incognitomode.dev
+
+<h2 align="center">Personal Website: **https://incognitomode.dev**</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=incognitomodedev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="incognitomodedev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=incognitomodedev&show_icons=true&theme=tokyonight&locale=en" alt="incognitomodedev" /></p>
+
+Most things are done in private...
