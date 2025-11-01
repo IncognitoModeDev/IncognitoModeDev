@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **incognito@incognitomode.dev**
 
-<h2 align="center">Personal Website: **https://incognitomode.dev**</h2>
+<h2 align="center">Personal Website: incognitomode.dev</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=incognitomodedev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="incognitomodedev" /></p>
 
